@@ -10,8 +10,8 @@
 - **Hover nad przedmiotem** - Wyświetlenie opisu przedmiotu
 
 ## Pobieranie
-- **Build**: [Pobierz tutaj](https://drive.google.com/file/d/1d_xp2RsXFZ3oRQxHcUefVfNhACVFN7Nq/view?usp=sharing)
-- **Package UE5**: [Pobierz tutaj](https://drive.google.com/file/d/16LIyfEJrecwhzrs97Kt3_kHIiUlMPuMl/view?usp=sharing)
+- **Build**: [Pobierz tutaj](https://drive.google.com/file/d/16LIyfEJrecwhzrs97Kt3_kHIiUlMPuMl/view?usp=sharing)
+- **Package UE5**: [Pobierz tutaj](https://drive.google.com/file/d/1d_xp2RsXFZ3oRQxHcUefVfNhACVFN7Nq/view?usp=sharing)
 
 ## Źródła
 - **Grafiki**:
